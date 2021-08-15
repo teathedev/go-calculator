@@ -67,5 +67,4 @@ func main() {
 	}
 
 	fmt.Println("Your result is: ", result)
-	return
 }
